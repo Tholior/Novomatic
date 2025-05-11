@@ -1,0 +1,23 @@
+# ninja log v6
+12	362	7686909328150002	CMakeFiles/Szukajka.dir/main.cpp.obj	27eb7eedde498a96
+27	1061	7686895825967456	CMakeFiles/Szukajka.dir/searchengine.cpp.obj	d4d657bff70862db
+369	473	7686917251110032	TestSzukajka.exe	2f9d716770fe65d
+362	469	7686909331650005	Szukajka.exe	c6e0a3b51721ce1d
+11	369	7686917247524889	CMakeFiles/TestSzukajka.dir/test.cpp.obj	9c94fa2a01bea0b8
+11	193	7686940865418703	build.ninja	75f592ec602ba3a5
+5	551	7686911258106476	CMakeFiles/TestSzukajka.dir/searchengine.cpp.obj	74edc42fddc9a5cb
+12	371	7686940915957798	CMakeFiles/Szukajka.dir/main.cpp.obj	724a3eb46cb69eea
+14	568	7686940915987799	CMakeFiles/Szukajka.dir/searchengine.cpp.obj	fe84db8151516c8a
+568	675	7686940921521314	Szukajka.exe	c6e0a3b51721ce1d
+13	376	7686942838798878	CMakeFiles/Szukajka.dir/main.cpp.obj	724a3eb46cb69eea
+15	567	7686942838818886	CMakeFiles/Szukajka.dir/searchengine.cpp.obj	fe84db8151516c8a
+567	677	7686942844334664	Szukajka.exe	c6e0a3b51721ce1d
+17	376	7686942905942276	CMakeFiles/TestSzukajka.dir/test.cpp.obj	ec3bd7a81708c7de
+19	560	7686942905962351	CMakeFiles/TestSzukajka.dir/searchengine.cpp.obj	bb6a939c5ea29153
+560	667	7686942911371057	TestSzukajka.exe	2f9d716770fe65d
+14	385	7686943376046642	CMakeFiles/TestSzukajka.dir/test.cpp.obj	ec3bd7a81708c7de
+385	491	7686943379761149	TestSzukajka.exe	2f9d716770fe65d
+13	375	7686943810493514	CMakeFiles/TestSzukajka.dir/test.cpp.obj	ec3bd7a81708c7de
+375	484	7686943814120848	TestSzukajka.exe	2f9d716770fe65d
+3	361	7686945514876969	CMakeFiles/TestSzukajka.dir/test.cpp.obj	ec3bd7a81708c7de
+361	470	7686945518464743	TestSzukajka.exe	2f9d716770fe65d

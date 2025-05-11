@@ -1,0 +1,4 @@
+C:/Users/Tholior/CLionProjects/Novomatic/Operacja_Binarna/cmake-build-debug/CMakeFiles/Operacja_Binarna.dir
+C:/Users/Tholior/CLionProjects/Novomatic/Operacja_Binarna/cmake-build-debug/CMakeFiles/Test_Operacja_Binarna.dir
+C:/Users/Tholior/CLionProjects/Novomatic/Operacja_Binarna/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Tholior/CLionProjects/Novomatic/Operacja_Binarna/cmake-build-debug/CMakeFiles/rebuild_cache.dir

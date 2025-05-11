@@ -1,0 +1,4 @@
+C:/Users/Tholior/CLionProjects/Novomatic/Szukajka/cmake-build-debug/CMakeFiles/Szukajka.dir
+C:/Users/Tholior/CLionProjects/Novomatic/Szukajka/cmake-build-debug/CMakeFiles/TestSzukajka.dir
+C:/Users/Tholior/CLionProjects/Novomatic/Szukajka/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Tholior/CLionProjects/Novomatic/Szukajka/cmake-build-debug/CMakeFiles/rebuild_cache.dir

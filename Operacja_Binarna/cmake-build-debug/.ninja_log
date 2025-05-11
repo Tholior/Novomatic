@@ -1,0 +1,9 @@
+# ninja log v6
+1	230	7685349463397586	CMakeFiles/Test_Operacja_Binarna.dir/test.cpp.obj	6a67f53d8e0d7957
+231	277	7685349465687588	Test_Operacja_Binarna.exe	8dbd6e136e37b982
+12	238	7685349506413528	CMakeFiles/Operacja_Binarna.dir/main.cpp.obj	cc66d5b0b3950189
+238	285	7685349508683529	Operacja_Binarna.exe	24063295462862e8
+9	238	7686940259049191	CMakeFiles/Test_Operacja_Binarna.dir/test.cpp.obj	bd79b9541415770c
+238	289	7686940261339352	Test_Operacja_Binarna.exe	8dbd6e136e37b982
+12	231	7686940314560488	CMakeFiles/Operacja_Binarna.dir/main.cpp.obj	64d032b5df5c6630
+231	280	7686940316758684	Operacja_Binarna.exe	24063295462862e8
