@@ -36,7 +36,7 @@ vector<string> SearchEngine::ask(const string& prefix) {
     vector<pair<string, int>> weightedKeywords;
     collectAllKeywords(current, weightedKeywords);
 
-    sort(weightedKeywords.begin(), weightedKeywords.end(),
+    ranges::sort(weightedKeywords,
         [](const pair<string, int>& a, const pair<string, int>& b) {
                     return a.second > b.second;
          });
